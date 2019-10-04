@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          work in progress 
+          work in progress
         </a>
       </header>
     </div>
