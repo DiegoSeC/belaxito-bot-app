@@ -15,5 +15,3 @@ deploy:
   token:
     secure: "${FIREBASE_DEPLOY_TOKEN}"
   project: "belaxito-bot-app"
-  on:
-    branch: master
